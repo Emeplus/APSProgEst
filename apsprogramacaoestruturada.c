@@ -1,7 +1,7 @@
 /*
 *********** APS Programação Estruturada - Turma 332 ***********
-* Aluno: Marcio Amarildo de Sousa Coelho - Matricula 2015201780
-* Aluno: Marcio Amarildo de Sousa Coelho - Matricula 2015201780
+* Aluna: Adriane - Matricula 1
+* Aluna: Cintia Rodrigues - Matricula 2
 * Aluno: Marcio Amarildo de Sousa Coelho - Matricula 2015201780
 ***************************************************************
 */
