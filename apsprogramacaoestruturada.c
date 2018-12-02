@@ -1,8 +1,8 @@
 /*
-*********** APS Programação Estruturada - Turma 332 ***********
-* Aluna: Adriane
-* Aluna: Cintia
-* Aluno: Marcio
+*********** APS Programação Estruturada - Turma AAA ***********
+* Aluna: Adr
+* Aluna: Cin
+* Aluno: MC
 ***************************************************************
 */
 /*
