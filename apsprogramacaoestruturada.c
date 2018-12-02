@@ -41,8 +41,8 @@
 #define PAUSE 0
 #endif
 /*****Mensagens*****/
-#define INTRO0 "************ APS Programação Estruturada - Turma 332 ************\n"
-#define INTRO1 "| Aluno: Marcio Amarildo de Sousa Coelho - Matricula 2015201780 |\n"
+#define INTRO0 "************ APS Programação Estruturada - Turma AAA ************\n"
+#define INTRO1 "| Aluno: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA - Matricula xxxxxxxxxx |\n"
 #define INTRO2 "*****************************************************************\n"
 #define MSGQ00 "Digite 0 para sair ou o número da questão: "
 #define MSGQ01 "Questão 01"
