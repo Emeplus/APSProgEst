@@ -81,8 +81,9 @@ void mostrarPrimo();
 void selection_sort (int vetor[],int max);
 
 /*****Variáveis Globais*****/
+
 int vetor[TAM_VET];
-int matriz[NUML][NUMC][NUMP]
+int matriz[NUML][NUMC][NUMP];
 int max,num,elem;
 
 /***** Funções*****/
@@ -211,23 +212,23 @@ void mostrarVetor(){
 	}
 /*****Gerar Matriz****/
 void preencherMatriz(){
-	int m=0,n=0,p=0;
+	int i=0,m=0,n=0,p=0;
 	srand(time(NULL));
 	do{
 		elem=geraNum();
-		vetor[m][n][p]=elem;
+		matriz[m][n][p]=elem;
 		i++;		
 	}while(i<TAM_VET);
 		printf(VET_OK);
 		return;
 	}
 void mostrarMatriz(){
-	int i=0,j=0,k=0;
+	int m,n,p;
 	printf(MOSTRAR_MAT);
 	
-		for(m=0;m<numL;m++){
-		for(n=0;n<numC;n++){
-			for(p=0;p<numP;p++){
+		for(m=0;m<NUML;m++){
+		for(n=0;n<NUMC;n++){
+			for(p=0;p<NUMP;p++){
 		printf("%4d",matriz[m][n][p]);}
 	}}
 		//if (j==10) {j=0;printf("\n");}
